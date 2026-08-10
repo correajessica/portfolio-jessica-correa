@@ -1,12 +1,12 @@
-# Ilustrações do portfólio
+# ilustrações do portfólio
 
-O portfólio usa uma pequena série de ilustrações originais, em fundo branco e sem texto. Elas aparecem apenas nas páginas em que acrescentam uma pausa visual ao conteúdo.
+O portfólio usa uma pequena seleção de arquivos SVG da coleção Open Doodles, preservando o fundo branco, a leveza editorial e o uso pontual de imagem.
 
-| Página | Arquivo | Função |
+| página | arquivo | função |
 | --- | --- | --- |
-| Sobre | `ilustracao-sobre-gato.png` | gato junto de um livro, como detalhe de margem |
-| Pesquisa | `ilustracao-pesquisa.png` | cena de investigação e leitura |
-| Projetos | `ilustracao-projetos.png` | criação digital e educação |
-| Escritas | `ilustracao-escritas.png` | gesto de escrita e elaboração |
+| sobre | `open-doodles-cuidado-planta.svg` | cuidado, permanência e território |
+| pesquisa | `open-doodles-meditacao.svg` | saúde mental e cuidado |
+| projetos | `open-doodles-criacao.svg` | movimento e criação digital |
+| escritas | `open-doodles-leitura.svg` | leitura e elaboração |
 
-Uso declarado: pessoal, acadêmico, educacional e não comercial. As ilustrações foram desenvolvidas para este portfólio; nenhuma prévia ou imagem de terceiros com marca d'água é publicada.
+Crédito: [Open Doodles](https://www.opendoodles.com/), por Pablo Stanley, sob CC0. O site declara finalidade pessoal, acadêmica, educacional e não comercial.

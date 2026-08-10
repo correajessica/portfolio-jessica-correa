@@ -134,7 +134,7 @@ h3 { margin-bottom: .52rem; font-size: clamp(1.35rem, 2.2vw, 1.72rem); line-heig
 .page-heading--illustrated .intro { margin-bottom: 0; }
 .page-illustration { width: min(100%, 275px); margin: 0; justify-self: end; }
 .page-illustration--research { width: min(100%, 295px); }
-.page-illustration img, .about-cat { display: block; width: 100%; height: auto; }
+.page-illustration img, .about-illustration { display: block; width: 100%; height: auto; }
 
 .home { display: grid; align-content: center; min-height: calc(100vh - 104px); padding: 7vh 0 13vh; }
 .home .eyebrow { margin-bottom: 1.2rem; }
@@ -148,7 +148,7 @@ h3 { margin-bottom: .52rem; font-size: clamp(1.35rem, 2.2vw, 1.72rem); line-heig
 .portrait { width: min(100%, 245px); margin: .2rem 0 0; }
 .portrait img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover; object-position: 50% 35%; filter: saturate(.92); }
 .portrait figcaption { margin-top: .75rem; color: var(--muted); font-size: .68rem; letter-spacing: .055em; }
-.about-cat { width: 120px; }
+.about-illustration { width: 158px; }
 
 .research-focus { display: grid; grid-template-columns: minmax(0, 1fr) minmax(260px, .65fr); gap: clamp(2.5rem, 8vw, 7rem); align-items: end; padding: clamp(2.3rem, 5vw, 4rem) 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .research-focus h2 { max-width: 650px; }

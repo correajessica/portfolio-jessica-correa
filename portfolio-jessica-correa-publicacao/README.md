@@ -1,6 +1,6 @@
 # jessica corrêa
 
-Site multipage estático do portfólio pessoal, acadêmico e autoral de Jessica Corrêa Pantoja.
+Site multipage estático do portfólio pessoal, acadêmico e autoral de Jessica Corrêa.
 
 ## Publicação
 
@@ -12,6 +12,6 @@ Além de `Narrativas em Medicina`, `Aulas — Cursinho Popular` e `Vem pro BICT`
 
 ## Ilustrações
 
-O site usa quatro ilustrações originais, de fundo branco e sem texto, em `assets/images/`. Elas são usadas de modo pontual nas páginas sobre, pesquisa, projetos e escritas.
+O site usa quatro ilustrações SVG da coleção [Open Doodles](https://www.opendoodles.com/), de Pablo Stanley, em `assets/images/`. Elas são usadas de modo pontual nas páginas sobre, pesquisa, projetos e escritas.
 
-O portfólio declara finalidade pessoal, acadêmica, educacional e não comercial. Nenhuma prévia com marca d'água ou imagem de terceiros é publicada.
+Open Doodles está sob CC0; a atribuição permanece visível no rodapé. O portfólio declara finalidade pessoal, acadêmica, educacional e não comercial.
