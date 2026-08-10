@@ -135,7 +135,7 @@ h3 { margin-bottom: .52rem; font-size: clamp(1.35rem, 2.2vw, 1.72rem); line-heig
 .page-heading--illustrated .intro { margin-bottom: 0; }
 .page-illustration { width: min(100%, 275px); margin: 0; justify-self: end; }
 .page-illustration--research { width: min(100%, 295px); }
-.page-heading--writing { max-width: 780px; margin-bottom: clamp(3rem, 6vw, 4.5rem); }
+.page-heading--writing { max-width: 780px; margin-bottom: clamp(1.85rem, 3vw, 2.4rem); }
 .page-illustration img, .about-illustration { display: block; width: 100%; height: auto; }
 
 .home { display: grid; grid-template-columns: minmax(0, 1.08fr) minmax(250px, .55fr); gap: clamp(2.4rem, 8vw, 8rem); align-content: center; min-height: calc(100vh - 104px); padding: 7vh 0 13vh; }
@@ -156,7 +156,6 @@ h3 { margin-bottom: .52rem; font-size: clamp(1.35rem, 2.2vw, 1.72rem); line-heig
 .prose--about > p { max-width: 740px; }
 .about-heading { display: grid; grid-template-columns: minmax(0, 650px) minmax(205px, 270px); gap: clamp(1.4rem, 3.5vw, 3.25rem); align-items: start; max-width: 990px; margin-bottom: 1.8rem; }
 .about-heading h1 { margin-bottom: .78rem; }
-.about-subtitle { max-width: 540px; margin: 0; color: var(--blue); font-family: var(--serif); font-size: clamp(1.08rem, 1.9vw, 1.36rem); line-height: 1.35; }
 .about-quote { max-width: 600px; margin: 0 0 clamp(2.6rem, 5vw, 3.75rem); padding-left: clamp(1.1rem, 2.4vw, 1.6rem); border-left: 1px solid var(--blue); }
 .about-quote p { margin: 0 0 .55rem; font-family: var(--serif); font-size: clamp(1.28rem, 2.25vw, 1.62rem); line-height: 1.23; }
 .about-quote cite { color: var(--muted); font-size: .76rem; font-style: normal; }
@@ -180,7 +179,7 @@ h3 { margin-bottom: .52rem; font-size: clamp(1.35rem, 2.2vw, 1.72rem); line-heig
 .project__link, .publication__link { color: var(--blue); font-size: .79rem; letter-spacing: .03em; }
 .project__links { display: flex; flex-wrap: wrap; gap: .6rem 1.15rem; margin-bottom: 0 !important; }
 
-.quote-block { max-width: 790px; margin: 0 0 clamp(3.5rem, 8vw, 6rem); padding: 0 0 0 clamp(1.2rem, 4vw, 3rem); border-left: 1px solid var(--blue); }
+.quote-block { max-width: 790px; margin: 0 0 clamp(2.25rem, 4vw, 3rem); padding: 0 0 0 clamp(1.2rem, 4vw, 3rem); border-left: 1px solid var(--blue); }
 .quote-block blockquote { margin: 0 0 1rem; font-family: var(--serif); font-size: clamp(1.65rem, 3.7vw, 2.8rem); line-height: 1.12; }
 .quote-block cite { color: var(--muted); font-size: .78rem; font-style: normal; }
 
@@ -215,7 +214,7 @@ h3 { margin-bottom: .52rem; font-size: clamp(1.35rem, 2.2vw, 1.72rem); line-heig
   .home { grid-template-columns: 1fr; gap: 1.35rem; min-height: calc(100vh - 82px); padding-bottom: 12vh; }
   .home__visual { width: min(100%, 280px); margin-left: auto; }
   .research-focus, .page-heading--illustrated { grid-template-columns: 1fr; }
-  .page-heading--writing { max-width: 100%; margin-bottom: 2.8rem; }
+  .page-heading--writing { max-width: 100%; margin-bottom: 1.85rem; }
   .portrait { width: 190px; }
   .prose--about > p { max-width: 100%; }
   .about-heading { grid-template-columns: 1fr; gap: .35rem; margin-bottom: 1.55rem; }
