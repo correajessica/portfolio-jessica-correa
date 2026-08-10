@@ -1,4 +1,4 @@
-# jessica corrêa pantoja
+# jessica corrêa
 
 Site multipage estático do portfólio pessoal, acadêmico e autoral de Jessica Corrêa Pantoja.
 
