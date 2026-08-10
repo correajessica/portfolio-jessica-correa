@@ -15,3 +15,7 @@ Além de `Narrativas em Medicina`, `Aulas — Cursinho Popular` e `Vem pro BICT`
 O site usa quatro ilustrações SVG da coleção [Open Doodles](https://www.opendoodles.com/), de Pablo Stanley, em `assets/images/`. Elas são usadas de modo pontual nas páginas sobre, pesquisa, projetos e escritas.
 
 Open Doodles está sob CC0; a atribuição permanece visível no rodapé. O portfólio declara finalidade pessoal, acadêmica, educacional e não comercial.
+
+## Identidade e compartilhamento
+
+O cabeçalho usa o wordmark `logo-jessica-correa.svg`; o ícone do navegador está em `favicon.svg`. A imagem de compartilhamento para redes sociais está em `assets/images/og-jessica-correa.png` (1200 × 630) e é declarada nas meta tags Open Graph e Twitter de todas as páginas.

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 48" role="img" aria-labelledby="title">
+  <title id="title">jessica corrêa</title>
+  <g fill="none" stroke="#41617c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7">
+    <path d="M14 35.5c5.2-8.6 8.2-17.9 8.7-28"/>
+    <path d="M19.8 17.5c-5.7-2.1-9.7-6.2-11.8-11.8 5.7 2.1 9.7 6.2 11.8 11.8Z"/>
+    <path d="M24.1 27.3c5.8-2.1 10.1-6.2 12.4-11.9-5.8 2.1-10.1 6.2-12.4 11.9Z"/>
+    <circle cx="14" cy="36" r="1.8" fill="#a85e68" stroke="none"/>
+  </g>
+  <text x="45" y="33" fill="#20272e" font-family="Newsreader, Georgia, serif" font-size="27" font-weight="500" letter-spacing="-0.55">jessica corrêa</text>
+</svg>

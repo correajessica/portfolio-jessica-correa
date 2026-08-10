@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">jessica corrêa</title>
+  <desc id="description">pesquisa, educação, saúde e tecnologia</desc>
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <path d="M78 101H1122" stroke="#e5e8eb"/>
+  <g transform="translate(0 92)" fill="none" stroke="#41617c" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <path d="M91 508c19-32 30-67 31-105"/>
+    <path d="M112 439c-24-9-41-26-50-49 24 9 41 26 50 49Z" fill="#dfe8ef"/>
+    <path d="M127 475c25-9 43-26 53-50-25 9-43 26-53 50Z" fill="#f2dce0"/>
+    <path d="M72 510h126"/>
+  </g>
+  <circle cx="91" cy="601" r="5" fill="#a85e68"/>
+  <text x="80" y="186" fill="#20272e" font-family="Georgia, serif" font-size="76" font-weight="normal" letter-spacing="-2.5">jessica corrêa</text>
+  <text x="84" y="246" fill="#41617c" font-family="Arial, sans-serif" font-size="23" letter-spacing="3.5">PESQUISA · EDUCAÇÃO · SAÚDE · TECNOLOGIA</text>
+  <text x="84" y="359" fill="#20272e" font-family="Georgia, serif" font-size="38">pesquisas, projetos e escritas</text>
+  <text x="84" y="412" fill="#626a74" font-family="Arial, sans-serif" font-size="25">saúde · educação · território · tecnologia</text>
+  <g transform="translate(821 150)" fill="none" stroke="#20272e" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
+    <path d="M112 294c5-83 6-165 4-248"/>
+    <path d="M113 163C69 143 41 104 32 60c45 20 73 59 81 103Z" fill="#dfe8ef"/>
+    <path d="M118 204c49-17 82-52 98-101-49 17-82 52-98 101Z" fill="#f2dce0"/>
+    <path d="M119 114c31-13 52-37 64-68-32 13-53 36-64 68Z" fill="#efe2c1"/>
+    <path d="M35 299h226"/>
+    <path d="M196 252h51c18 0 31 13 31 30 0 17-13 30-31 30h-51c-16 0-29-13-29-30 0-17 13-30 29-30Z" fill="#dfe8ef"/>
+    <path d="M167 266h-19c-18 0-30 12-30 28s12 28 30 28h21"/>
+  </g>
+  <text x="1080" y="565" fill="#626a74" font-family="Arial, sans-serif" font-size="16" text-anchor="end" letter-spacing="1.4">PORTFÓLIO PESSOAL E ACADÊMICO</text>
+</svg>
